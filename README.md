@@ -1,4 +1,5 @@
 # AstroPower
 AstroPower Project
 
-[[new.md]]
+[new](new.md)
+
